@@ -1,10 +1,10 @@
 # Vrinda Store Sales Analysis Dashboard
 
-# Overview
+## Overview
 
 This project presents an interactive Microsoft Excel dashboard built to analyze Vrinda Store's retail sales data. The dashboard helps identify sales trends, customer behavior, top-performing states, and sales channels using Excel's analytical features.
 
-# Objectives
+## Objectives
 
 - Analyze monthly sales trends
 - Compare sales by gender and age group
@@ -22,7 +22,7 @@ This project presents an interactive Microsoft Excel dashboard built to analyze 
 - Data Cleaning
 - Data Visualization
 
-# Dashboard Features
+## Dashboard Features
 
 - Monthly Sales Analysis
 - Orders by Gender
@@ -31,14 +31,14 @@ This project presents an interactive Microsoft Excel dashboard built to analyze 
 - Sales Channel Analysis
 - Interactive Slicers
 
-# Key Insights
+## Key Insights
 
 - Female customers contribute the majority of overall sales.
 - Customers aged 30–49 years represent the largest customer segment.
 - Maharashtra, Karnataka, and Uttar Pradesh generate the highest sales.
 - Amazon, Flipkart, and Myntra account for most of the total orders.
 
-# Skills Demonstrated
+## Skills Demonstrated
 
 - Data Cleaning
 - Data Analysis
