@@ -18,6 +18,4 @@ Each project includes the dataset, Excel workbook, dashboard, and a brief explan
 ## Author
 Srijan Poudel
 
-Aspiring Data 
-
-Analyst
+Aspiring Data Analyst
