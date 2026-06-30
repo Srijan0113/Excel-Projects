@@ -64,6 +64,17 @@ The dashboard includes:
 - Data Visualization
 - Business Insight Generation
 
+## Repository 
+
+```
+Students-Score-Analysis/
+│
+├── README.md
+├── dataset.csv
+├── exams.xlsx
+└── Dashboard.pdf
+```
+
 ## Author
 
 **Srijan Poudel**

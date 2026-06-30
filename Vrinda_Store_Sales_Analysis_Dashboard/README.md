@@ -46,3 +46,14 @@ This project presents an interactive Microsoft Excel dashboard built to analyze 
 - Dashboard Development
 - Business Insight Generation
 - Pivot Tables & Pivot Charts
+
+## Repository 
+
+```
+Vrinda-Store-Sales-Analysis/
+│
+├── README.md
+├── Dataset.xlsx
+├── Vrinda Store Data Analysis.xlsx
+└── Dashboard.pdf
+```
